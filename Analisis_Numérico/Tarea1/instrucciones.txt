@@ -1,0 +1,10 @@
+
+navegar en linux hasta la carpeta donde se encuentra el archivo anpi_erf.m
+
+abrir la terminal en la carpeta
+o utilizar: cd /direccion/de/la/carpeta
+
+en la terminal
+utilizar el comando: octave-cli
+utilizar la funcion de error: anpi_erf(x,k)
+
